@@ -12,3 +12,7 @@
 # Side-Bar
 
 ![IMG_20220409_034359](https://user-images.githubusercontent.com/76007797/162544091-c615ba2a-e193-40cd-bb4c-d8acfb4efd3a.jpg)
+
+# Blog-Section
+
+![IMG_20220409_034223](https://user-images.githubusercontent.com/76007797/162544263-6f834213-0c51-496b-8a28-4391e37b6301.jpg)
